@@ -1,6 +1,7 @@
 # hw3
 
 A new Flutter project.
+If it does not work on your computer, create a new project and replace the 'lib' folder with mine. Then Copy and paste 'images' folder to your project. Then add assets to 'pubspec.yaml' file. To do that, copy the 'assets' from my yaml file and paste it to yours. I hope that is all. Run and test my Beverages project!
 
 ## Getting Started
 
